@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee id="1">
+    <name>qa</name>
+    <surname>ws</surname>
+    <salary>23.0</salary>
+    <hireday>2020-01-01</hireday>
+    <birthday>1970-02-10</birthday>
+    <gender>MALE</gender>
+  </employee>
+  <employee id="11">
+    <name>qa</name>
+    <surname>ws</surname>
+    <salary>23.0</salary>
+    <hireday>2000-01-01</hireday>
+    <birthday>1980-01-01</birthday>
+    <gender>FEMALE</gender>
+  </employee>
+</employees>
